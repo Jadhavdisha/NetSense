@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+data/raw/
+data/processed/
+
+*.pcap
+*.pcapng
+
+*.zip
+*.7z
+
+models/*.pkl
+models/*.joblib
